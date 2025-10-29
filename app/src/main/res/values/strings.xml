@@ -4,10 +4,11 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">TODO EN UNO</string>
     <string name="second_fragment_label">TODO EN UNO</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
 
     <string name="lorem_ipsum">
        Descubre la comodidad de hacer tus compras desde tu celular con Todo en Uno, el supermercado que lo tiene todo.
+        Tu Supermercado de confianza!
     </string>
 </resources>
